@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lalezar&family=Neonderthaw&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lalezar&family=Neonderthaw&family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lalezar&family=Neonderthaw&family=PT+Sans&family=Playfair+Display:wght@500&display=swap');
+body {
+    background-image: url("backg.jpg");
+}
+
+.container {
+    background-color: aliceblue;
+    width: 98%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    height: 1000px;
+}
+
+.header-tittle {
+    color: #6CCF0D;
+    font-family: 'Playfair Display', serif;
+}
+
+.nav-item a {
+    color: gray;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+}
+
+hr {
+    color: #6CCF0D;
+    height: 0px;
+    border: 1px dashed;
+}
+
+.section-image {
+    height: 100%;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+#business,
+#Company {
+    font-family: 'PT Sans', sans-serif;
+    color: #002A8C;
+}
+
+#Welcome {
+    font-family: 'Playfair Display', serif;
+    color: orange;
+}
